@@ -1,26 +1,25 @@
-# DenRio
-# <p align="center"𝓝𝓰𝓸 𝓐𝓷𝓱 𝓓𝓸𝓷𝓰</p>
+# <p align="center">𝓝𝓰𝓸 𝓐𝓷𝓱 𝓓𝓸𝓷𝓰</p>
 
 <p align="center">
 	<a href="https://github.com/dongksnb269">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<img src="https://github.com/dongksnb269/DenRio/blob/af31abd52928b48e6ab773ad85120e5cd88d016e/taoanhdep_logo_block.jpg" width = "200" alt="TNT">
 	</a>
 </p>
 
 <h2 align="center">About me</h2>
 
 ```C#
-namespace NAD
+namespace TNT
 {
-    class dongcc
+    class ngoctienTNT
     {
         static void Main(string[] args)
         {
-            string Name = "Ngô Anh Đông";
+            string Name = "Trần Ngọc Tiến";
             string Age = "2002";
             string Gender = "Male";
-            string Address = "Ninh Bình, Việt Nam";
-            string University = "Trường Đại học Phenikaa - PKA";
+            string Address = "Khánh Hòa, Việt Nam";
+            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
             string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
