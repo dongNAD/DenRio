@@ -1,8 +1,8 @@
 # DenRio
-# <p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+# <p align="center"𝓝𝓰𝓸 𝓐𝓷𝓱 𝓓𝓸𝓷𝓰</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
+	<a href="https://github.com/dongksnb269">
 	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
 	</a>
 </p>
