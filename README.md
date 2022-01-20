@@ -1,7 +1,7 @@
 # <p align="center">𝓝𝓰𝓸 𝓐𝓷𝓱 𝓓𝓸𝓷𝓰</p>
 
 <p align="center">
-	<a href="https://github.com/dongksnb269">
+	<a href="https://github.com/dongNAD">
 	<img src="https://github.com/dongksnb269/DenRio/blob/af31abd52928b48e6ab773ad85120e5cd88d016e/taoanhdep_logo_block.jpg" width = "200" alt="TNT">
 	</a>
 </p>
